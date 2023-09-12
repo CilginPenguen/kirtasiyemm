@@ -35,7 +35,7 @@ dependencies:
   sqflite:
   path:
   permission_handler:
-  flutter_barcode_scanner:
+  flutter_barcode_scanner: ^2.0.0
   table_calendar: ^3.0.9
 
 
